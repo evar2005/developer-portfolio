@@ -4,6 +4,7 @@
   font-family: "Open Sans", serif;
 
 }
+/*nav related styyle*/
 nav{
   display: flex;
   justify-content: space-between;
@@ -38,3 +39,4 @@ nav a{
   border-radius: 5px;
   background-color: #FD6E0A;
 }
+/*header related style*/
